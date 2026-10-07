@@ -6,5 +6,4 @@ Léa Watron, Lou Vigier, Lili Dhalluin
 2) Certains éléments ne sont simplement pas sélectionnables avec le clavier, tels que les films.
 3) Dans le code HTML, on passe d'un header h1 à un header h4, sans h2 ni h3.
 4) Les points qui montrent la visibilité des films sont rouge et vert, ce qui peut être difficile à distinguer pour les personnes daltoniennes.
-5) Même en pouvant voir ces couleurs, aucune information n'est donnée sur ces points. Il est difficile de savoir ce qu'ils indiquent.
-6) Le symbole favori n'est pas forcément très clair pour tout le monde.
+5) Même en pouvant voir ces couleurs, aucune information n'est donnée sur ces points. Il est difficile de savoir ce qu'ils indiquent. De même pour le symbole favori.
