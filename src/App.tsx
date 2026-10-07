@@ -96,6 +96,9 @@ export default function App() {
                       onClick={() => toggleFavorite(film.id)}
                     >
                       <span aria-hidden="true">{favorites.includes(film.id) ? "★" : "☆"}</span>
+                      <span className="tooltip" aria-hidden="true">
+                        {favorites.includes(film.id) ? "Retirer des favoris" : "Ajouter aux favoris"}
+                      </span>
                     </button>
                   </div>
                 </li>
